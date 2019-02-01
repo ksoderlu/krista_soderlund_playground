@@ -1,1 +1,3 @@
-# krista_soderlund_playground
+# Krista's Playground
+
+A place to play with 'git'!
